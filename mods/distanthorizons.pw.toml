@@ -11,3 +11,8 @@ hash = "c3373812cb65b98cf524e387d3f032ebcbf3bd4e874d42f46b700be9b895ca15c8568cd0
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "uzLZ00HG"
+
+[option]
+optional = true
+description = "See farther without turning your game into a slide show"
+default = false

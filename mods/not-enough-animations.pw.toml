@@ -11,3 +11,8 @@ hash = "d522dbbc08e098c231bb46e0a92cfc91750f0204a539f6a6f91ec5c5422e514bafcd0656
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "MK7dm8OP"
+
+[option]
+optional = true
+description = "Bringing first-person animations to the third-person"
+default = true

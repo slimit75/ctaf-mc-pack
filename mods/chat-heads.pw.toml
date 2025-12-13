@@ -11,3 +11,8 @@ hash = "155e95d91c01812be603d6940db8e1e348dafbbfd82cd9d238d17c951e7bd5859c42d99b
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
 version = "9dRmYosQ"
+
+[option]
+optional = true
+description = "See who you're chatting with!"
+default = true

@@ -11,3 +11,8 @@ hash = "1744a48a47aedcbf19a0a93f78473cf0221fc4782852dca7fc02685719174664b4f9d95d
 [update.modrinth]
 mod-id = "aC3cM3Vq"
 version = "ylmBQ38A"
+
+[option]
+optional = true
+description = "Enhances inventory management by adding various functions to the mouse buttons."
+default = false

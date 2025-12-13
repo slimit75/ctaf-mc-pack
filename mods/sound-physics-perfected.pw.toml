@@ -11,3 +11,8 @@ hash = "b15a3e7afa07fbba0c7deb179807db7d1489882290071e7db98e92b028309ac0bed765e2
 [update.modrinth]
 mod-id = "KS6Hbu9Z"
 version = "G9wyliCG"
+
+[option]
+optional = true
+description = "A Ray tracing implementation to have Sound Physics in Minecraft. I believe this is more accurate + sounds better than Sound Physics mod."
+default = true

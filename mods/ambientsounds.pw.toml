@@ -11,3 +11,8 @@ hash = "11cc959f768506329c8938e95f4a0086c4a00cff82852e09c72f60d0938a91beba53499e
 [update.modrinth]
 mod-id = "fM515JnW"
 version = "ybXRUW4r"
+
+[option]
+optional = true
+description = "#listentonature"
+default = true

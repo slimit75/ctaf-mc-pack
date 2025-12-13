@@ -11,3 +11,8 @@ hash = "d8efcbeec574d3f89798f70704e72d6d424760b0e7f95985939668fcbec3af56d649938e
 [update.modrinth]
 mod-id = "bEpr0Arc"
 version = "fLTKEEjY"
+
+[option]
+optional = true
+description = "A client-side schematic mod with extra features for create mode work"
+default = false

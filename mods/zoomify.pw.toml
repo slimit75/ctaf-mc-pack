@@ -11,3 +11,8 @@ hash = "ced6eac462c2dc33565d77bbf5b198860ce8afcb19a3e2b81d5548f35097fdaf1f4034fa
 [update.modrinth]
 mod-id = "w7ThoJFB"
 version = "4IZeSKNU"
+
+[option]
+optional = true
+description = "A zoom mod with infinite customizability."
+default = true
