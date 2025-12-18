@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
+hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9bbd749c21a1751fd5bf57abd1a98d6562839da2f93dfc2f4f886542bccf84fa"
+hash = "f0f652fa206ed1bc05dc8fd3fea8c6899b2693e41e2d0091daea4a8d9c43200c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "1fcfdabe052ab05353d3cb4a13ad4dc25b2b1ad974d633ab000be8e90c5fce75"
+hash = "93a9d609533082c74458d94232b4883d0b77d88176c98a3824e2a5acb1a92d85"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_core.pw.toml"
-hash = "9c7978a3af54d109b1ae4a035672024d178641df8c553126e405f381d814041a"
+hash = "819fa1f18729ecf4b95a1ada63d2cabb1a3a53e02f93145432cd80a5baa97048"
 metafile = true
 
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
-hash = "3ca867b96ce71321b882606ed97d3c4af8bba5b4886dd71589f29c6e022b152c"
+hash = "4d0702eaaa585f52e89ee2c58de2e322937f810907aa6a84d9b0267b201e2a25"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1c1ffc422cf0890d13d1a67f2186e3d65493caef1542376dc53ce45fd442a47d"
+hash = "1c0d731cceb2515e4ba22318ac3d6bbd8bb670047cb5596d988725bc6e97b12a"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "154941c01d69986495838a54da51e942b5a2dfc567df711eb496effa0e0b4320"
+hash = "a3b657aae0661cabeb3c078f50d17609a0c291eec6d7930cd96b85b8ed96857b"
 metafile = true
 
 [[files]]
