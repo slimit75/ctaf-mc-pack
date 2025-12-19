@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ae966452c183f5bd11a6944fa4817b19af912886db71c45027656c8e658a44f2"
+hash = "e3ebae83eac15915f4df507a68d875d68367b9d4e1cada82b4fa78c51e001641"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "05b103c72299fcb85ed833611bbbbed8680b0f4d2d959b6c1a2af883097aa79c"
+hash = "f206935f72461a344b05f85169756337cf2612f69b2f49a63f4108ea823969fb"
 metafile = true
 
 [[files]]
@@ -56,8 +56,13 @@ hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "58ae79c44a558ff90cdc391b2325937270bbf18574cba225debf76157ec0a766"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "abfc032e14985cbfc413086f1d2225e80861e3ffc15c876287a1e5007efd41b0"
+hash = "10e62eda6080e5ef86cdb707fea882afc798023e928c3eecea54d71ee58abe24"
 metafile = true
 
 [[files]]
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "860f592db808f5446313d60b76750d1ff71879b8c75564b2383b666680404212"
+hash = "d8b2d90b9c5ee1454bde1bd45358e1495e49750ac2ac534ddf745a1ae06d738a"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "3305e3ecee32af4aa5660f38d57fc47c6eb389803d4391eed4a001a86f3ff92c"
+hash = "b1443d77238013c5081bba8ada96fd01e2250c40df96abbe8470a95059a8693d"
 metafile = true
 
 [[files]]
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "718898c9e4489d5d68c5aaf1adab1efa8b2832054490f33e21c6b7d86093037c"
+hash = "fdb984586992e70244d575185580d47a2c73ff6461ec29bcae580ef9b51b8949"
 metafile = true
 
 [[files]]
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
@@ -147,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "94dde64a0b2364e2cfdcb52973c1c9ba5ff09e8576f072a6a26de8d2c85bc115"
+hash = "7ce0c6bc41c817996eb8f81d282e2898f3fcd606d8f0ac0c526e8f09735a7b77"
 metafile = true
 
 [[files]]
@@ -167,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "832d58bf7facc1027b438b3fad0f3ec1df2d3eb8c0eae320f7f4b2eaad3ffa50"
+hash = "1b1604e2688090dbb18910a72e4bc04e45542448852a105f52b97c05e0a897c7"
 metafile = true
 
 [[files]]
@@ -196,8 +206,13 @@ hash = "eb5baa5b120a9105528270d3f39f3d400cc16b5ad59bce4eb1ee9478b158c067"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "f59bd175ff18496ef62846768e2b0c91528dc927a26df383f7c7551c7dbff48c"
+hash = "aa04b1125a2c18377d45268ff59eb7784e7a3e5f6ef9aff805ef0a7485d4ca48"
 metafile = true
 
 [[files]]
@@ -207,7 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f3807cf6ea07ea8c0a59b0542aca70f8ed0f2cf7c63994859053445784236e21"
+hash = "14f66aae0008a361a15854905e6ed095086b61e78056819458da8cace6ae8e09"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -222,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5fb4069b450d462398eb813e6967fddf34fcc5c89ebb1dcaf5aaefcbfcae595a"
+hash = "84e110f76128936a4ee4df891fe21e882fc486d14e184af8bdde6b034635b7da"
 metafile = true
 
 [[files]]
@@ -282,5 +302,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "de478631d13c39406d9c0748acaac810aa5d4e9cd1ba556f2577b727840e777d"
+hash = "728b51ab3caf7aecb6aa9013037a11302a6959faba525435a564041a3bf05cb4"
 metafile = true

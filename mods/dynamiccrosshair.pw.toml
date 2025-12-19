@@ -15,4 +15,3 @@ version = "79wERqfk"
 [option]
 optional = true
 description = "A mod that hides or changes the crosshair dependent on context"
-default = false

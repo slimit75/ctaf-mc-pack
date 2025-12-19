@@ -15,4 +15,3 @@ version = "fLTKEEjY"
 [option]
 optional = true
 description = "A client-side schematic mod with extra features for create mode work"
-default = false

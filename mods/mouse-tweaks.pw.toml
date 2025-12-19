@@ -15,4 +15,3 @@ version = "ylmBQ38A"
 [option]
 optional = true
 description = "Enhances inventory management by adding various functions to the mouse buttons."
-default = false
