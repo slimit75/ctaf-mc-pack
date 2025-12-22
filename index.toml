@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
+hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
 
 [[files]]
@@ -151,6 +151,11 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
+file = "mods/guts.pw.toml"
+hash = "3d8eee2308a2bf490e64a2bcf5f1cf085d3e2b6bea8a6d3d5abb71e527c42b70"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
+hash = "d9c18b8a4799887c3db83b46cc3f9010972085327e8b85ba4670f6539cf2f4aa"
 metafile = true
 
 [[files]]
@@ -251,6 +256,16 @@ hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
+file = "mods/purpurpacks-re-dye-glazed-terracotta.pw.toml"
+hash = "80d380af94f36b46e2d49ae4b7e345ace4dfeb5cda802f6904b21a1c2716b728"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
+hash = "0f25c7e3f6200951dc08fb0740b38219b5e3f48147c635cca3ab1386d223ed4d"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
@@ -262,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1c0d731cceb2515e4ba22318ac3d6bbd8bb670047cb5596d988725bc6e97b12a"
+hash = "9c13a5497b1706986d7cedef548ea030e763c4b3029c8cc397cf9b0c0369f204"
 metafile = true
 
 [[files]]
@@ -292,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a6fa6d762556487f3ec34b332bbf3e6ad3758d1ecd046026f1a3dfd6f48d17d7"
+hash = "d9b210470eeaca6109002dcc8c1442dbbef5468bbf7be516651e7fc25b3d5c5e"
 metafile = true
 
 [[files]]
