@@ -1,0 +1,13 @@
+name = "Give Us Terracotta Stairs! (G.U.T.S)"
+filename = "terracotta-stairs-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar"
+hash-format = "sha512"
+hash = "cae25db8e19cd17e3fb595c2e2e3c9cfd718dcf15c064a38be4040e7e643bd0c52bf4fb56e81ceef1abfc6a97c4d5739ec4a42b11d61423edc044aac985a648c"
+
+[update]
+[update.modrinth]
+mod-id = "K7vp8WNo"
+version = "uch4GHhi"
