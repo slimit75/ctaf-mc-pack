@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/3d-placeable-food.pw.toml"
-hash = "5ad36f9e39c9e00f7ca29ab78733094388fcbce3a4c59f17ae3df7e8400debf5"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a1833660aa682fde7a8f110355138c15e04782f7dc20011f9685eef1bd5c52ae"
 metafile = true
@@ -16,8 +11,8 @@ hash = "e3ebae83eac15915f4df507a68d875d68367b9d4e1cada82b4fa78c51e001641"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
+file = "mods/anti-xray.pw.toml"
+hash = "610076c89a6e55343df37808fcf59806330eb37b4108c5b080807c95cd0c7162"
 metafile = true
 
 [[files]]
@@ -56,8 +51,13 @@ hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "58ae79c44a558ff90cdc391b2325937270bbf18574cba225debf76157ec0a766"
+hash = "252d64d837d274aa46b00729f136d5900a5fb029f8c25f11f280a9b34da6add1"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f0f652fa206ed1bc05dc8fd3fea8c6899b2693e41e2d0091daea4a8d9c43200c"
+hash = "52b92571ac9b279250caa7bdec50a5a8cc040d34317f44360ac096e607c7fcfe"
 metafile = true
 
 [[files]]
@@ -156,6 +156,11 @@ hash = "3d8eee2308a2bf490e64a2bcf5f1cf085d3e2b6bea8a6d3d5abb71e527c42b70"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "ab5b5ecade1d9cf981d11fee68d5f42e5d933a4e4d9b15b2657d8da2a4f8304a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "7ce0c6bc41c817996eb8f81d282e2898f3fcd606d8f0ac0c526e8f09735a7b77"
 metafile = true
@@ -167,12 +172,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d9c18b8a4799887c3db83b46cc3f9010972085327e8b85ba4670f6539cf2f4aa"
+hash = "518dc7d0ff46227ea2d09c7b6a96552ebb41e289029292bfc22f01a6121d1c9c"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7375f12e54998e218a602ba71a0554dc1bcbd9cc56e152eed4174e86ddecb33c"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "61a29cdfacd6805daf1a1c88347cf096cbb2ae19d6194eec062defe4b0814ca9"
 metafile = true
 
 [[files]]
@@ -182,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "93a9d609533082c74458d94232b4883d0b77d88176c98a3824e2a5acb1a92d85"
+hash = "3dfa40dd3fd5f597f0f2d253e086d2876e8cfdc0266d74497d03f893611adc4c"
 metafile = true
 
 [[files]]
@@ -197,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
+hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
 metafile = true
 
 [[files]]
@@ -208,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
 metafile = true
 
 [[files]]
@@ -276,6 +291,11 @@ hash = "9c13a5497b1706986d7cedef548ea030e763c4b3029c8cc397cf9b0c0369f204"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "391cfcaddc727aca042186688aaa41bafa1666527a36499715e357432304bcf0"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
@@ -286,8 +306,13 @@ hash = "a3b657aae0661cabeb3c078f50d17609a0c291eec6d7930cd96b85b8ed96857b"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "27670ced0491777862fb15dbf598df3b0dfc86b73f19874419dff12dc29e3c15"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
-hash = "79118b808057ad2d07f29539fe66b75cc82eb53e7b42e36d9a52fa7b1c302f2b"
+hash = "5a639c2db9f85e15aa537de14769f37e0bde34d0c1a31f0fd6e32fd182669bed"
 metafile = true
 
 [[files]]
