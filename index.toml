@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+hash = "6a492387f6348192bcb9e2ee15f9be142100648ce60080a75f980185cb66ee13"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "52b92571ac9b279250caa7bdec50a5a8cc040d34317f44360ac096e607c7fcfe"
+hash = "219cff1d722d7b7d98380052c8707e7242def480d3e34f571850f1329f45ad12"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "b1443d77238013c5081bba8ada96fd01e2250c40df96abbe8470a95059a8693d"
+hash = "ae499bc61d39d26ec2bbca7ef5f37bf6240a7fdd0729fbc8573acabd6f0e4bc5"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "52eff5c4364676432feed4f4ea8b8a9441d4d95b84d4c434891063c99c05029c"
+hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "518dc7d0ff46227ea2d09c7b6a96552ebb41e289029292bfc22f01a6121d1c9c"
+hash = "927ef1db35ff0f514378cb5a9a1d11fa49dc4a6754d50d18445b7174bb325a87"
 metafile = true
 
 [[files]]
@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1b1604e2688090dbb18910a72e4bc04e45542448852a105f52b97c05e0a897c7"
+hash = "98a700c8ac406b4035f2f1fe3f6e660ca8b14ab697d8464a3f86d94d87c06f7a"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3dfa40dd3fd5f597f0f2d253e086d2876e8cfdc0266d74497d03f893611adc4c"
+hash = "38d5a309095c272b7cb305e63bea744ab60052b36bda04051bd48914386ddbf1"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
+hash = "b237026e1ed2780812c42a4649d7bf4e61d2ec20d09f9677ad8833ac3680a2e5"
 metafile = true
 
 [[files]]
@@ -306,8 +306,13 @@ hash = "a3b657aae0661cabeb3c078f50d17609a0c291eec6d7930cd96b85b8ed96857b"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "27670ced0491777862fb15dbf598df3b0dfc86b73f19874419dff12dc29e3c15"
+hash = "857220cbd9e3ae276ec2a8ec2c6b2e6ee79a53b4727739bec3e42ec1e8f625c2"
 metafile = true
 
 [[files]]
