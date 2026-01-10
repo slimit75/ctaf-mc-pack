@@ -36,11 +36,6 @@ hash = "5335a88286ee7b6d8461605545211712773523468877c7edd4b04093aa808b78"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "f206935f72461a344b05f85169756337cf2612f69b2f49a63f4108ea823969fb"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "b698ef315db976c1f3dea7a1a65fe9b41e6b5f7b84e59e3bd79a25185094ef32"
 metafile = true
@@ -162,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7ce0c6bc41c817996eb8f81d282e2898f3fcd606d8f0ac0c526e8f09735a7b77"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -218,16 +213,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "b237026e1ed2780812c42a4649d7bf4e61d2ec20d09f9677ad8833ac3680a2e5"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "aa04b1125a2c18377d45268ff59eb7784e7a3e5f6ef9aff805ef0a7485d4ca48"
 metafile = true
 
 [[files]]
@@ -311,11 +296,6 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "857220cbd9e3ae276ec2a8ec2c6b2e6ee79a53b4727739bec3e42ec1e8f625c2"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "5a639c2db9f85e15aa537de14769f37e0bde34d0c1a31f0fd6e32fd182669bed"
 metafile = true
@@ -342,5 +322,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "728b51ab3caf7aecb6aa9013037a11302a6959faba525435a564041a3bf05cb4"
+hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
 metafile = true
