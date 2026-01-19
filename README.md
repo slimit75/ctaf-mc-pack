@@ -1,5 +1,5 @@
 # CTAF Minecraft Modpack
-The CTAF Minecraft Modpack originally started as a Vanilla+ modpack for a Minecraft [Fabric](https://github.com/FabricMC) 1.20.1 server between friends. While the "Vanilla+" aspect is questionable with recent mod additions, this modpack is still used and maintained for that server.
+The CTAF Minecraft Modpack originally started as a Vanilla+ modpack for a Minecraft [Fabric](https://github.com/FabricMC) 1.21.1 server between friends. While the "Vanilla+" aspect is questionable with recent mod additions, this modpack is still used and maintained for that server.
 
 This repository was open-sourced to streamline contributions to the modpack.
 
