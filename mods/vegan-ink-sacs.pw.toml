@@ -1,0 +1,13 @@
+name = "Craftable Vegan Ink Sacs"
+filename = "vegan-ink-sacs-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nb9Lj1Fd/versions/qbrw0CJw/vegan-ink-sacs-1.5.jar"
+hash-format = "sha512"
+hash = "9264aa80f697de1cd23cf898f86e1d36e2d4719e6cd37213585e2e66ad2916f7edc17f46ddd6d23096583e2c9cb375e7d2340aa1ceaf7b1860651f1b169a3416"
+
+[update]
+[update.modrinth]
+mod-id = "nb9Lj1Fd"
+version = "qbrw0CJw"

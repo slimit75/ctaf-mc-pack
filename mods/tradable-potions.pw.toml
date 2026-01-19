@@ -1,0 +1,13 @@
+name = "Tradable Potions"
+filename = "tradablepotions-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJkXlrJ8/versions/D0dYktEZ/tradablepotions-1.0.1.jar"
+hash-format = "sha512"
+hash = "a01c5479dc61c853d48ae81ade7db81e6812114aaecf68964f8e58a7902b4e8b9412d6f63861f966a8304acb3ae702d163bb2ebb8652ffc97d626fd9488a6441"
+
+[update]
+[update.modrinth]
+mod-id = "vJkXlrJ8"
+version = "D0dYktEZ"
