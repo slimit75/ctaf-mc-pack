@@ -11,8 +11,3 @@ hash = "608a48e73606c1c20c448e53d816f604d0909a692784bb150b5a95f165bfc42cec1c8d07
 [update.modrinth]
 mod-id = "UVtY3ZAC"
 version = "DqX0eegg"
-
-[option]
-optional = true
-description = "Provides a way to get enchantment descriptions from enchanted books"
-default = true

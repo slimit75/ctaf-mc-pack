@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a1833660aa682fde7a8f110355138c15e04782f7dc20011f9685eef1bd5c52ae"
+hash = "bd0848389894ffe9850efb36210060ff0ac3cc31c74af7f80a897de05df4caa2"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "10e62eda6080e5ef86cdb707fea882afc798023e928c3eecea54d71ee58abe24"
+hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
 
 [[files]]
@@ -91,18 +91,13 @@ hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
 
 [[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "ae499bc61d39d26ec2bbca7ef5f37bf6240a7fdd0729fbc8573acabd6f0e4bc5"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "fdb984586992e70244d575185580d47a2c73ff6461ec29bcae580ef9b51b8949"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -287,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "448416f1f70509e4fe4bcda1e44df48fb8e26d4c6cd060f5cc1f8df282432b9c"
+hash = "948bdbbaeb8285c2f0a100e99dbbb197b1bdbc1c3115edaac075f95a58114c92"
 metafile = true
 
 [[files]]
@@ -306,8 +301,18 @@ hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
 
 [[files]]
+file = "mods/tradable-potions.pw.toml"
+hash = "8ed5fa6bc8bb1af8f0ac522b99599cf084f9733b9bfd456821e247a350b6cc87"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/vegan-ink-sacs.pw.toml"
+hash = "28391da2ff8fde46205b7e5bba1ac07fd1509dd8998ecd1d92221a5503e88c71"
 metafile = true
 
 [[files]]
@@ -322,5 +327,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+hash = "2709ce9505c0a00b9406f83eb4bc158f5cad773b96fc3826c88dca45d65876cd"
 metafile = true
