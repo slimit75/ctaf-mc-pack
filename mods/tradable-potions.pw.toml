@@ -3,11 +3,11 @@ filename = "tradablepotions-1.0.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/vJkXlrJ8/versions/D0dYktEZ/tradablepotions-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/vJkXlrJ8/versions/n2qE46Ov/tradablepotions-1.0.1.jar"
 hash-format = "sha512"
-hash = "a01c5479dc61c853d48ae81ade7db81e6812114aaecf68964f8e58a7902b4e8b9412d6f63861f966a8304acb3ae702d163bb2ebb8652ffc97d626fd9488a6441"
+hash = "d92e919bc17be0fe54bdf17355505067e3cc650039c496558e7ddc2481a602d7a93bdebff1f3b531de278fc0dff1c60fea5e406bf2e54964037ffe61f82d913c"
 
 [update]
 [update.modrinth]
 mod-id = "vJkXlrJ8"
-version = "D0dYktEZ"
+version = "n2qE46Ov"
