@@ -1,12 +1,12 @@
 name = "CTAF Minecraft Pack"
 author = "slimit75"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc4ab2c93186032e4f326e30b15c5d9665b205b7bb4fbb33b39c6a814c4e1063"
+hash = "82b28270c3469c3cd448642ae1d0b426a963295b72323a1874c3fb9a795bb1f4"
 
 [versions]
 fabric = "0.19.3"
